@@ -24,7 +24,7 @@ else if(a+b<1)
 else
     console.log("HI");
 
-//Types of foe loop
+//Types of for loop
 //1
 for(var i=0;i<5;i++){
     console.log(i);   
